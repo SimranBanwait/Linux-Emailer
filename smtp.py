@@ -1,3 +1,4 @@
+#make sure python3 is installed
 import smtplib
 
 # Set up the SMTP server
